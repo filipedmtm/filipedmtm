@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Caio, a Software Engineer Student and tecnology enthusiastic. Currently developing projects as a Backend Developer to improve my skills.
+I'm Filipe, a Software Engineer Student and tecnology enthusiastic. Currently developing projects as data analyst using relaitional databases and python/backend developerworking on to improve my skills.
 
 ## About me
 
@@ -10,8 +10,10 @@ I'm Caio, a Software Engineer Student and tecnology enthusiastic. Currently deve
 
 ## Tech and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,react,nextjs,html,css,tailwind,postman,docker,maven,postgres,mysql,mongo,ubuntu&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,azure,nextjs,html,css,gcp,postman,docker,maven,postgres,mysql,mongo,ubuntu&perline=13)](https://skillicons.dev)
 
+## Currently...
+🔭 I’m currently working on a project thats sells leads (smart datas) about urban regions to companys.
 <!--
 **filipedmtm/filipedmtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
