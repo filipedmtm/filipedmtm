@@ -10,7 +10,7 @@ I'm Filipe, a Software Engineer Student and tecnology enthusiastic. Currently de
 
 ## Tech and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,azure,nextjs,html,css,gcp,postman,docker,maven,postgres,mysql,mongo,ubuntu&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,azure,nextjs,html,css,gcp,postman,docker,kotlin,postgres,mysql,mongo,ubuntu&perline=13)](https://skillicons.dev)
 
 ## Currently...
 🔭 I’m currently working on a project thats sells leads (smart datas) about urban regions to companys.
